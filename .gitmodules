@@ -1,3 +1,6 @@
 [submodule "husky-tool-kit"]
 	path = husky-tool-kit
 	url = git@github.com:dualboot-partners/-husky-tool-kit.git
+[submodule "husky-toolkit"]
+	path = husky-toolkit
+	url = git@github.com:dualboot-partners/-husky-tool-kit.git
