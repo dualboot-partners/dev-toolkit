@@ -1,0 +1,3 @@
+[submodule "husky-tool-kit"]
+	path = husky-tool-kit
+	url = git@github.com:dualboot-partners/-husky-tool-kit.git
