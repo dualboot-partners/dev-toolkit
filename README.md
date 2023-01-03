@@ -1,4 +1,4 @@
-# DualBoot Partners Development Toolkit
+# Dualboot Partners Development Toolkit
 
 > :construction: Section under development.
 
